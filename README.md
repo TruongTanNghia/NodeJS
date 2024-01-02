@@ -1,28 +1,11 @@
-<p align="center"><a href="https://profile-forme.com" target="_blank"><img src="https://res.cloudinary.com/ecommerce2021/image/upload/v1659065987/avatar/logo_begsn1.png" width="300"></a></p>
+# Learning NodeJS
+## Hi I'm Truong Tan Nghia 
 
-<p align="center">
-<a href="https://www.linkedin.com/in/tai-nguyen-tien-787545213/"><img src="https://img.icons8.com/color/48/000000/linkedin-circled--v1.png" alt="Linkedin"></a>
-<a href="https://profile-forme.surge.sh"><img src="https://img.icons8.com/color/48/000000/internet--v1.png" alt="Profile"></a>
-<a href="tel:0798805741"><img src="https://img.icons8.com/color/48/000000/apple-phone.png" alt="Phone"></a>
-<a href = "mailto:nguyentientai10@gmail.com"><img src="https://img.icons8.com/fluency/48/000000/send-mass-email.png" alt="License"></a>
-</p>
+[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](htttps://discord.gg/tannghia) [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/tannghiaaaa) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/olld.man.teddy) [![TikTok](https://img.shields.io/badge/TikTok-%23000000.svg?logo=TikTok&logoColor=white)](https://tiktok.com/@Teddy) 
+<a target="_blank" rel="noopener noreferrer nofollow" href="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" data-target="animated-image.originalLink"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" style="max-width: 100%; display: inline-block;" data-target="animated-image.originalImage"></a>
 
-## Class Online: Learn backend With Tai Dev
+[![](https://visitcount.itsvg.in/api?id=TruongTanNghia&icon=0&color=0)](https://visitcount.itsvg.in)
 
-## Team Word: Liên hệ công việc https://profile-forme.com
+![INTRO](https://github.com/TruongTanNghia/TruongTanNghia/assets/92427686/5fec5021-f2b7-47ec-a6ce-bc657022038a)
 
-## 1. Nguyen Tien Tai ( MainTain 🚩).
-
-## Tài Khoản Donate li Cf để có động lực code cho anh em tham khảo 😄.
-
-![giphy](https://3.bp.blogspot.com/-SzGvXn2sTmw/V6k-90GH3ZI/AAAAAAAAIsk/Q678Pil-0kITLPa3fD--JkNdnJVKi_BygCLcB/s1600/cf10-fbc08%2B%25281%2529.gif)
-
-## Mk: NGUYEN TIEN TAI
-
-## STK: 1651002972052
-
-## Chi Nhánh: NGAN HANG TMCP AN BINH (ABBANK).
-
-## SUPORT CONTACT: [https://profile-forme.com](https://profile-forme.com)
-
-## Thank You <3.
+<a target="_blank" rel="noopener noreferrer nofollow" href="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" data-target="animated-image.originalLink"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" style="max-width: 100%; display: inline-block;" data-target="animated-image.originalImage"></a> 
